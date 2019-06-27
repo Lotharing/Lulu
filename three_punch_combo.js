@@ -7,6 +7,6 @@
             }
         })
         $('#stop').click(function(){
-            alert('我真的词穷了璐雯儿...')
+            alert('还不够吗，我都词穷啦！！')
             $(this).hide();
         })
